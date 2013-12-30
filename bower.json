@@ -1,0 +1,11 @@
+{
+  "name": "origami",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~1.10.2",
+    "quojs": "~2.3.6",
+    "reqirejs": "~2.1.9",
+    "bootstrap": "~3.0.3"
+  },
+  "devDependencies": {}
+}
